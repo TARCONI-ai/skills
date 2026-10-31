@@ -9,7 +9,7 @@ Agent skills by [Jasper van Puffelen López](https://jaspervpl.com), AI engineer
 ## Install
 
 - **Claude Code:** copy the skill folder to `~/.claude/skills/` (for all your projects) or to `.claude/skills/` inside a project.
-- **Claude apps:** download the `.zip` from the [releases](https://github.com/TARCONI-ai/skills/releases) or from [jaspervpl.com/resources](https://jaspervpl.com/resources/) and upload it in the Skills section of the settings.
+- **Claude apps:** zip the skill folder (or download the `.zip` from [jaspervpl.com/resources](https://jaspervpl.com/resources/)) and upload it in the Skills section of the settings.
 - **Other agents:** any agent that supports the Agent Skills standard can load the folder. Check its documentation for where skills go.
 
 ## Why this skill
